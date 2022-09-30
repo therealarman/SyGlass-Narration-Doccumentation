@@ -38,16 +38,21 @@ At the top of the menu, you'll see a variety of visualization options, with sett
 ### Settings Sliders
 [**Stride**](https://www.youtube.com/watch?v=Xa8EJ20cAU8&t=31s)
 - Stride adjusts the "noisiness" of your project. Increasing the stride will generally decrease the quality of your volume (making it appear more jittery), while decreasing the slide increases the quality and makes it more clear. It's not reccomended to have strive at 0 until recording, as it will casue your project to lag.
+
 **Opacity**
 - Opacity changes the opacity of your image. Lowering the opacity makes the volume more transparent, and increasing the opacity makes it more opaque.
+
 [**Intensity**](https://www.youtube.com/watch?v=Xa8EJ20cAU8&t=43s)
 - Intensity alters the brightness of your project. Increasing the intensity makes the volume appear brighter, while devreasing intensity makes it darker.
+
 [**Contrast**](https://www.youtube.com/watch?v=Xa8EJ20cAU8&t=51s)
 - Contrast adjusts the gamma-correction of your volume. By increasing and decreasing the contrast, you're able to make some lighter values less visible, revealing details that might be hidden deeper in the volume.
+
 [**Window**](https://www.youtube.com/watch?v=Xa8EJ20cAU8&t=67s)
 - Window is one of two sliders that has 2 adjustable values.
 - Values *less* than the first slider will become black (less intense)
 - Values *higher* than the second slider will become white (more intense)
+
 [**Threshold**](https://www.youtube.com/watch?v=Xa8EJ20cAU8&t=87s)
 - Threshold also includes 2 adjustable values.
 - Values not in range of the two sliders will dissapear completely
