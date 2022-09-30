@@ -20,13 +20,13 @@ Looking in the bottom right corner of your Syglass environment, you should see a
 The 3 important buttons you'll be using on your controller are the **touchpad**, **menu button**, and the **trigger**
 
 **Touchpad:**
-Pressing down on the touchpad enables the radial menu. With the radial menu, you're able to select different abilities or settings for the current tool on each controller.
+- Pressing down on the touchpad enables the radial menu. With the radial menu, you're able to select different abilities or settings for the current tool on each controller.
 
 **Menu Button:**
-The menu button opens a menu which allows for various settings changes. You're able to change your projects visualization settings, your selected tool for each controller, as well as render settings.
+- The menu button opens a menu which allows for various settings changes. You're able to change your projects visualization settings, your selected tool for each controller, as well as render settings.
 
 **Trigger:**
-The trigger allows you to utilize the selected tool for each controller, as well as moving around your project or other objects in the your VR environment.
+- The trigger allows you to utilize the selected tool for each controller, as well as moving around your project or other objects in the your VR environment.
 
 ## Adjusting visualization settings
 After loading your project, you'll be able to change the visualization settings of the project using an interactive menu.
